@@ -25,7 +25,7 @@ app.get('/', function (req, res) {
 });
 
 
- 
+
 
 
 // Static directory
